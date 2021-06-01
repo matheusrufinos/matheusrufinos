@@ -9,3 +9,9 @@ I'am developer since 2017 and currently I'm FrontEnd Developer at [Grupo Boticá
 
 interests: technologies 🖥, photographs 📷, design 🎨, advertising 🐔, travel 🌍, skate 🛹 and surf 🏄🏻‍♂️
 _____________________________________
+
+ <div>
+  <a href="https://github.com/matheusrufinos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusrufinos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrufinos&layout=compact&langs_count=16&theme=dracula"/>
+<div>
